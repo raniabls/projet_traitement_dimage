@@ -67,3 +67,6 @@ The final system integrates a **graphical interface** (Tkinter) to allow users t
 ## 📊 Evaluation
 
 The model’s performance was evaluated based on **counting accuracy**:
+- Results were recorded in Excel
+- Performance slightly drops with noisy images, but size-based classification helps preserve interpretation accuracy
+
